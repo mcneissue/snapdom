@@ -1,6 +1,10 @@
 {
   "name": "snapdom",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcneissue/snapdom"
+  },
   "description": "A state management library.",
   "main": "dist/snapdom.js",
   "scripts": {
